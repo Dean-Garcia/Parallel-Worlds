@@ -1,0 +1,58 @@
+data:extend({
+    {
+        type = "string-setting",
+        name = "World-B3-Name",
+        setting_type = "startup",
+        default_value = 'World-B3',
+        order = 'a',
+        auto_trim = true,
+    },
+    {
+        type = "string-setting",
+        name = "World-B2-Name",
+        setting_type = "startup",
+        default_value = 'World-B2',
+        order = 'b',
+        auto_trim = true,
+    },
+    {
+        type = "string-setting",
+        name = "World-B1-Name",
+        setting_type = "startup",
+        default_value = 'World-B1',
+        order = 'c',
+        auto_trim = true,
+    },   
+    {
+        type = "string-setting",
+        name = "World-0-Name",
+        setting_type = "startup",
+        default_value = 'World-0',
+        order = 'd',
+        auto_trim = true,
+    },
+    {
+        type = "string-setting",
+        name = "World-1-Name",
+        setting_type = "startup",
+        default_value = 'World-1',
+        order = 'e',
+        auto_trim = true,
+    },
+    {
+        type = "string-setting",
+        name = "World-2-Name",
+        setting_type = "startup",
+        default_value = 'World-2',
+        order = 'f',
+        auto_trim = true,
+    },
+    {
+        type = "string-setting",
+        name = "World-3-Name",
+        setting_type = "startup",
+        default_value = 'World-3',
+        order = 'g',
+        auto_trim = true,
+    }   
+})
